@@ -1,4 +1,4 @@
-# Dare to give your junior developers permission to fail
+# Dare to give your junior developers permission to fail - Pending
 
 ## Abstract
 
