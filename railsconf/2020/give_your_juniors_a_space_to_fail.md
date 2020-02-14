@@ -1,8 +1,8 @@
-# Benefits of allowing junior developers to fail
+# Give your juniors a space to fail
 
 ## Abstract
 
-In this talk, we will discuss the ways you can create an environment that promotes creativity and experimentation for junior developers. You must be willing to let your junior developers try, and possibly fail, at implementing patterns or tools they feel strongly about. This creates an environment that fosters mentorship, rapid growth, and respect. Less experienced developers must be willing to push boundaries, take risks, and fail and the right environment will help them feel safe and supported as they learn and grow. This talk will focus on how to be a good mentor, by walking with your juniors in their learning journey, instead of in front of them.
+You must be willing to let your junior developers try, and possibly fail, at implementing patterns or tools they feel strongly about. This creates an environment that fosters mentorship, rapid growth, and respect. Less experienced developers must be willing to push boundaries, take risks, and fail and the right environment will help them feel safe and supported as they learn and grow. This talk will focus on how to be a good mentor, and the qualities you should seek when searching for a mentor.
 
 ## Details
 
