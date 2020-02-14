@@ -2,7 +2,7 @@
 
 ## Abstract
 
-In this talk, I will present several ways in which you can create an environment that promotes creativity and experimentation for junior developers. Such an environment must encourage mentorship, rapid growth, and respect, you must be willing to let your junior developers fail. If you are a junior developer yourself, your mission is to seek out environments that will encourage you to push your boundaries without equating failure with humiliation. This talk will focus on how to be a good mentor, and how to walk with your juniors instead of leading them by the ear.
+In this talk, I will present several ways in which you can create an environment that promotes creativity and experimentation for junior developers. This is possible only if you create space for your junior developers to fail with dignity, and to learn from their mistakes instead of being punished for them. If you are a junior developer yourself, your mission is to seek out environments that will encourage you to push your boundaries without equating failure with humiliation. This talk will focus on how to be a good mentor, and how to walk with your juniors instead of leading them by the ear, and the qualities you should seek if you are looking for a mentor.
 
 ## Details
 
